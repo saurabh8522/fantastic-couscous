@@ -26,5 +26,14 @@ Testing my potential.
 
  Burst Balloons
 
+ Last Stone Weight
+
+ Dice Roll Simulation
+
+ Maximum Product Subarray
+
+ New 21 Game
+
+
  
  
