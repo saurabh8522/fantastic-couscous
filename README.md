@@ -1,6 +1,7 @@
 # fantastic-couscous
 Testing my potential.
 
+## Dynamic Programming
  Catalan numbers = number of unique binary search trees
 
  Unique BST trees
@@ -42,6 +43,8 @@ Testing my potential.
 
  Domino and Tromino Tiling
 
+## Depth First Search
 
+	
  
  
