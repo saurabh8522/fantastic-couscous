@@ -34,6 +34,14 @@ Testing my potential.
 
  New 21 Game
 
+ Bitwise OR of subarrays
+
+ Unique Substrings in Wraparound String
+
+ Minimum Swaps to make sequence increasing (Very Good Question)
+
+ Domino and Tromino Tiling
+
 
  
  
